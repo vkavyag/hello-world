@@ -44,6 +44,8 @@
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
+               
+               <!-- demo on github webhooks -->
       </plugin>
 
       <plugin>
